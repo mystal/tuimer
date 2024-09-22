@@ -7,3 +7,5 @@ edition = "2021"
 anyhow = "1.0.89"
 notify-rust = "4"
 ratatui = "0.28"
+# TODO: I'm interested in trying this out for making a list of timers
+# tui-widget-list = "0.12"
